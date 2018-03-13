@@ -1,2 +1,2 @@
-import '../css/styles.css'
-import '../js/Entry.js'
+import '../src/styles.css'
+import { Entry } from '../js/Entry.js';
