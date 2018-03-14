@@ -1,4 +1,4 @@
-import { Entry } from '../js/Entry.js';
+import { Entry } from '../journal.js';
 describe('Entry', function(){
   it('should test number of words in one body', function(){
     var newEntry = new Entry("test1","this is my test");
